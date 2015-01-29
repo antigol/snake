@@ -1,0 +1,13 @@
+
+[Desktop Entry]
+Type=Application
+Encoding=UTF-8
+Name=Snake
+GenericName=snake
+Comment=
+Icon=/share/snake/snake-icon.png
+Exec=snake
+Terminal=false
+StartupNotify=false
+Categories=Game;
+Name[fr_CH]=Snake
